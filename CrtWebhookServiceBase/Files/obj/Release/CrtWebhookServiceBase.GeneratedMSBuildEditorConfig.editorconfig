@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CrtWebhookServiceBase
+build_property.ProjectDir = C:\inetpub\wwwroot\Academy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtWebhookServiceBase\Files\
